@@ -17,6 +17,8 @@ Keys -> ||
 | | :arrow_down:       |  | |
 |4| :book:             | Improved Variational Inference with Inverse Autoregressive Flow || [arxiv](https://arxiv.org/abs/1606.04934) | 2016
 | | :arrow_down:       |  | |
-|5| :book:             | Flow models | | | 
+|5| :book:             | Deep Unsupervised Learning UC Berkeley lectures | | [course](https://sites.google.com/view/berkeley-cs294-158-sp20/home) |
+| |                    | :heavy_check_mark: L1 - Introduction -> Types: 1. Generative models 2. Self-supervised models| | 1:10:00 |
+| |                    |  | |
 | |                    |  | |
 |.| :no_entry_sign:    | dummy | | link3 |
