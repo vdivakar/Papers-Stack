@@ -19,6 +19,7 @@ Keys -> ||
 | | :arrow_down:       |  | |
 |5| :book:             | Deep Unsupervised Learning UC Berkeley lectures | | [course](https://sites.google.com/view/berkeley-cs294-158-sp20/home) |
 | |                    | :heavy_check_mark: L1 - Introduction -> Types: 1. Generative models 2. Self-supervised models| | 1:10:00 |
+| |                    | :heavy_check_mark: L2 - Autoregressive Models -> histogram. parameterized distribution. 1.)RNN based 2.)Masking based. 2.1)MADE 2.2)Masked ConvNets | | 2:27:23 |
 | |                    |  | |
 | |                    |  | |
 |.| :no_entry_sign:    | dummy | | link3 |
