@@ -20,6 +20,7 @@ Keys -> ||
 |5| :book:             | Deep Unsupervised Learning UC Berkeley lectures | | [course](https://sites.google.com/view/berkeley-cs294-158-sp20/home) |
 | |                    | :heavy_check_mark: L1 - Introduction -> Types: 1. Generative models 2. Self-supervised models| | 1:10:00 |
 | |                    | :heavy_check_mark: L2 - Autoregressive Models -> histogram. parameterized distribution. 1.)RNN based 2.)Masking based. 2.1)MADE 2.2)Masked ConvNets | | 2:27:23 |
+| |                    | :heavy_check_mark: L3 - Flow Models -> Model output != p_theta(x); instead z=f_theta(x). z comes from a prob dist. Sampling is inverse of f_inverse_theta(x). <br> -> Autoregressive Flows:- Fast training; Slow sampling <br> -> Inverse Autoregressive Flow:- Slow training; Fast Sampling  | | 1:56:53 |
 | |                    |  | |
 | |                    |  | |
 |.| :no_entry_sign:    | dummy | | link3 |
