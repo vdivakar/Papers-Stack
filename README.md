@@ -13,8 +13,8 @@ Keys -> ||
 | |                    | _Causal conv. layers with dilation. Autoregression model. Sequential inference_ | |
 |2| ✅ | Fast Wavenet Generation Algorithm| notes |[arxiv](https://arxiv.org/abs/1611.09482) | 2016
 | |                    | _WaveNet improvement. O(2<sup> L</sup>) -> O(L). Still sequential though. <br> Use queues to push & pop already computed states at each layer_ | |
-|3| 📖 | Parallel WaveNet: Fast High-Fidelity Speech Synthesis | | [arxiv](https://arxiv.org/abs/1711.10433) | 2017
-| | ⬇️⬆️ |  | |
+|3| ✅ | Parallel WaveNet: Fast High-Fidelity Speech Synthesis | | [arxiv](https://arxiv.org/abs/1711.10433) | 2017
+| | ⬇️⬆️ | Probability Density Distillation - Teacher + student based architecture. Marries efficient training of Wavenet with efficient IAF for sampling. Sampling is parallel here for realtime synthesis.<br>✔️[medium - An Explanation of Discretized Logistic Mixture Likelihood](https://medium.com/@smallfishbigsea/an-explanation-of-discretized-logistic-mixture-likelihood-bdfe531751f0)  <br> ✔️ [vimeo - Parallel WaveNet](https://vimeo.com/287766925) | |
 |4|📕  | Improved Variational Inference with Inverse Autoregressive Flow || [arxiv](https://arxiv.org/abs/1606.04934) | 2016
 | |⬇️⬆️| ⭐ ✔️ Introduction to Normalizing Flows (ECCV2020 Tutorial)| | [video](https://www.youtube.com/watch?v=u3vVyFVU_lI)|
 |5| ✅ | Deep Unsupervised Learning UC Berkeley lectures | | [course](https://sites.google.com/view/berkeley-cs294-158-sp20/home) |
