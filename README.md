@@ -2,9 +2,9 @@
 Keeping a track of research papers I've read.
 
 Keys -> ||
-:white_check_mark: : Done reading ||
-:book: : In progress ||
-:no_entry_sign: : Dropped ||
+✅ : Done reading ||
+📖 : In progress ||
+🚫 : Dropped ||
 
 
 |No.| Status | Paper Name | Notes | Link | Year
@@ -21,6 +21,7 @@ Keys -> ||
 | |    | ✔️ L1 - Introduction -> Types: 1. Generative models 2. Self-supervised models| | 1:10:00 |
 | |    | ✔️ L2 - Autoregressive Models -> histogram. parameterized distribution. 1.)RNN based 2.)Masking based. 2.1)MADE 2.2)Masked ConvNets | | 2:27:23 |
 | |    | ✔️ L3 - Flow Models -> Model output != p_theta(x); instead z=f_theta(x). z comes from a prob dist. Sampling is inverse of f_inverse_theta(x). <br> -> Autoregressive Flows:- Fast training; Slow sampling <br> -> Inverse Autoregressive Flow:- Slow training; Fast Sampling  | | 1:56:53 |
+|6| 📖 | ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech|  |[arxiv](https://arxiv.org/abs/1807.07281) | 2018
 | |     |  | |
 | |     |  | |
 |.| 🚫 | dummy | | link3 |
