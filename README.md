@@ -2,14 +2,15 @@
 Keeping a track of research papers I've read.<br>
 ... Guilty of not pushing the recently read on the Top!
 
-[Articles-Collection](https://vdivakar.github.io/Articles-Collection/)
+[Articles-Collection](https://vdivakar.github.io/Articles-Collection/) <br>
+[Sheet](https://docs.google.com/spreadsheets/d/1TS9altY6HowCD_g_JgdaiFZMAJoX4Oo5bkApMiLrV7g/edit?usp=sharing)
+
 <br>
 <br>
 Keys -> ||
 ✅ : Done reading ||
 📖 : In progress ||
 🚫 : Dropped ||
-
 
 
 |    |    | Paper Name                                                                                                                                                                                                                                                                                                 | Notes        | Link                                                                                                         | Year       |
